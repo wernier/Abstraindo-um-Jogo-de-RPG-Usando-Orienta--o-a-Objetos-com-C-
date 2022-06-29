@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "10- Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/1.0.0": {
+        "runtime": {
+          "10- Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10- Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
